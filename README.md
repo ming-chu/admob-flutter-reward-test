@@ -1,6 +1,6 @@
 # ad_demo
 
-A new Flutter application.
+A new Flutter application to test issue https://github.com/kmcgill88/admob_flutter/issues/221
 
 ## Getting Started
 
